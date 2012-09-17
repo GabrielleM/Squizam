@@ -9,7 +9,6 @@ html, body {
 	width:100%; 
 }
 
-
 body{
 	color: black; 
 	background: #04859D; 
@@ -56,7 +55,6 @@ table{
 .indexIcon{
 	margin: 0px 50px; 
 }
-
 
 /*Nav Bar -- credit to http://www.webcredible.co.uk/user-friendly-resources/css/css-navigation-menu.shtml*/
 
@@ -106,7 +104,7 @@ table{
 	right: 0px; 
 } 
 
-/* Top RIght small nav menu */
+/* Top Right small nav menu */
 
 .small-nav-menu{
 	font-size: 0.9em; 
@@ -240,7 +238,6 @@ table{
 
 .content{
 	padding: 50px; 
-	
 }
 
 .squizamLogo{
@@ -263,6 +260,85 @@ table{
 	margin-top: -20px; 
 }
 
+/*Temporary Feature in Progress page*/
+.bulletList li{
+	margin-top: 15px;
+	margin-left: 2.2em;
+	text-decoration: none;
+	color: black;
+	font-style: italic;
+}
+
+.bulletList li a{
+	/*text-decoration: none;*/
+	color: black;
+}
+
+.bulletList li a:hover a:active{
+	color: #FF92C0;
+}
+
+.internalLink{
+	margin-left:20px;
+	padding: 2%;
+	margin-bottom: 10px; 
+}
+
+.studentTable{
+	width:50%;
+	margin: auto; 
+	background-color: #FF92C0;
+	color: blue;
+	padding: 2%;
+	text-align: center;
+	column-width: 100px;
+}
+
+.studentTable caption{
+	padding:2%;
+	color:white;
+	background-color: blue; 
+}
+
+.studentTable td{
+	padding:5%;
+	font-size: 2em;
+	font-family: marker felt, verdana, sans-serif;
+}
+
+.image{
+	margin-left:2.2em;
+}
+
+.imageCaption{
+	font-family: marker felt,verdana, sans-serif;
+	text-align: center;
+}
+
+.quizText{
+
+	font-family:calibri, Helvetica, sans-serif;
+}
+
+/*About Squizam Page*/
+
+.missionStatement{
+	padding: 5%;
+}
+
+.missionStatement a{
+	text-decoration: none;
+}
+
+.email{
+	color:black;
+	text-decoration: none;
+}
+
+.email{
+	color:#206876;
+	text-decoration: none;
+}
 
 /*General Classes*/
 
@@ -279,5 +355,12 @@ table{
 }
 
 .bulletList{
+	margin-top: 75px;
 	list-style-type: disc;
+	padding-left: 2em;
+	background-color: white;
 }
+
+
+
+
