@@ -260,7 +260,7 @@ table{
 	margin-top: -20px; 
 }
 
-/*Temporary Feature in Progress page*/
+/*Temporary Features in Progress page*/
 .bulletList li{
 	margin-top: 15px;
 	margin-left: 2.2em;
@@ -304,20 +304,6 @@ table{
 	padding:5%;
 	font-size: 2em;
 	font-family: marker felt, verdana, sans-serif;
-}
-
-.image{
-	margin-left:2.2em;
-}
-
-.imageCaption{
-	font-family: marker felt,verdana, sans-serif;
-	text-align: center;
-}
-
-.quizText{
-
-	font-family:calibri, Helvetica, sans-serif;
 }
 
 /*About Squizam Page*/
